@@ -1,6 +1,6 @@
 # Laboratório NodeJS
 
-## Gerenciar arquivos
+## Gerenciar produtos
 
     node command/main -h
 
